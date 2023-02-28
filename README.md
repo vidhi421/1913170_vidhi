@@ -1,1 +1,1 @@
-# 1913170_vidhi
+Minimum support = 60%
